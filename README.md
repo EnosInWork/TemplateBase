@@ -2,7 +2,7 @@
 
 ## Features
 
-- job/job2
+- Rework extended for job2
 - Last version (1.10.5)
  
 ## Original Author 
