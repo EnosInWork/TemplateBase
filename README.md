@@ -3,7 +3,7 @@
 ## Features
 
 - job/job2
-- Last version
+- Last version (1.10.5)
  
 ## Original Author 
 
